@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/web3_assessment/static/css/main.0844a44a.css",
+    "main.js": "/web3_assessment/static/js/main.fb598bf3.js",
+    "index.html": "/web3_assessment/index.html",
+    "main.0844a44a.css.map": "/web3_assessment/static/css/main.0844a44a.css.map",
+    "main.fb598bf3.js.map": "/web3_assessment/static/js/main.fb598bf3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0844a44a.css",
+    "static/js/main.fb598bf3.js"
+  ]
+}
